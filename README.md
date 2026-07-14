@@ -65,7 +65,7 @@ Aftershock sequences following major earthquakes pose significant risk to affect
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Big-Data-Laboratory-UMN/[NAMA]_[NIM]_PGRR-Aftershock-Classification-Sumatra.git
+git clone https://github.com/Big-Data-Laboratory-UMN/Benedictus Arya Pradipta_00000079179_PGRR.git
 cd PGRR-Aftershock-Classification-Sumatra
 ```
 
