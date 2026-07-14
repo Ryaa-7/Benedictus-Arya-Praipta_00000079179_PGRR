@@ -2,8 +2,7 @@
 
 Official implementation of **"AI-Based Regional Aftershock Prediction Based on Physics-Guided Relational Representation"** — includes the interactive Streamlit application **PGRR**.
 
-📄 **Paper**: [-] *(ICOEINS 2026 — link to be added once published)*
-
+📄 **Paper**: [-] 
 ---
 
 ## 📋 Overview
@@ -98,8 +97,6 @@ Then open `http://localhost:8501`.
 - **Note**: This is a public catalog dataset (secondary source). Preprocessing specific to this study — Sumatra bounding-box filtering, magnitude-scaled labeling, and physics-guided feature derivation — was performed as part of this research pipeline. *(Confirm with supervisor whether additional justification is required given the lab's primary-data guideline.)*
 
 ### Download
-
-**Dataset**: [Google Drive link — to be added]
 
 Once downloaded, place the CSV as follows:
 ```
